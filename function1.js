@@ -3,9 +3,10 @@
 let example = [1, 2, 3, 4, 'five', 6, 7];
 
 const logLength = function (arr) {
+    return arr.length;
 
 };
 
-logLength(example);
+console.log (logLength(example));
 
 //answer should be 7
