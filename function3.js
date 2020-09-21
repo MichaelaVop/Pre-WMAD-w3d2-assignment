@@ -10,3 +10,5 @@ const logItems = function (arr) {
 
 (logItems(example));
 
+// -
+

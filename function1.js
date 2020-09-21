@@ -10,3 +10,5 @@ const logLength = function (arr) {
 console.log (logLength(example));
 
 //answer should be 7
+
+// -

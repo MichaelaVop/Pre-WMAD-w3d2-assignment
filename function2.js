@@ -22,3 +22,5 @@ console.log (logThird(example));
 console.log (logThird(example2));
 
 //answer should be 'There is no third item'
+
+// -

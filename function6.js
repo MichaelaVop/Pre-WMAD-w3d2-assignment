@@ -10,3 +10,5 @@ const addTheLast = function (arr1, arr2) {
 };
 
 (addTheLast(food, numbers));
+
+// -
